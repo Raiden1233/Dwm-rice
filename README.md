@@ -5,6 +5,6 @@
 
 
 > [!NOTE]
-> slstatus is fine as it is , st is fine as well ( dont bother installing st if using virtual machine just install kitty ) 
-> install xwallpaper as well 
-> install python-wal for auto color scheme
+> - slstatus is fine as it is , st is fine as well ( dont bother installing st if using virtual machine just install kitty ) 
+> - install xwallpaper as well 
+> - install python-wal for auto color scheme
