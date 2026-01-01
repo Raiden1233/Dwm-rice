@@ -11,4 +11,4 @@
 > [!NOTE]
 > - slstatus is fine as it is , st is fine as well ( dont bother installing st if using virtual machine just install kitty ) 
 
-![DWM RICE PREVIEW](https://github.com/Raiden1233/Dwm-rice/blob/main/2026-01-01-162502_1920x1080_scrot.png?raw=true)
+![alt text ](https://github.com/Raiden1233/Dwm-rice/blob/main/2026-01-01-162502_1920x1080_scrot.png?raw=true "rice preview")
